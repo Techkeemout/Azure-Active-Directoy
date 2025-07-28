@@ -1,9 +1,9 @@
-# 🔐 Azure AD Hybrid Identity & Security Lab  
+# Azure AD Hybrid Identity & Security Lab  
 ### for **Northwind Innovations Inc.**
 
-![Azure Logo](https://learn.microsoft.com/en-us/media/logos/logo-azure.svg)
+![Azure Logo](https://seeklogo.com/images/M/microsoft-azure-logo-77619ADE26-seeklogo.com.png)
 
-## 🏢 Fictitious Company Overview
+## Fictitious Company Overview
 
 **Northwind Innovations Inc.** is a mid-sized SaaS company that provides AI-powered supply chain analytics solutions. As part of a digital transformation initiative, the company is migrating from an on-premises Active Directory to a hybrid cloud environment using **Azure Active Directory (Azure AD)** and related Microsoft security and governance tools.
 
@@ -88,7 +88,7 @@ Each section includes PowerShell scripts, configuration files, screenshots, and 
 
 ---
 
-### 07. 🔥 Azure Firewall Deployment
+### 07. Azure Firewall Deployment
 - Deploy Azure Firewall in hub network
 - Configure rules for outbound and inbound access
 - Integrate with Azure Monitor logs
@@ -97,7 +97,7 @@ Each section includes PowerShell scripts, configuration files, screenshots, and 
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Category                | Tools / Services                   |
 |------------------------|------------------------------------|
@@ -110,7 +110,7 @@ Each section includes PowerShell scripts, configuration files, screenshots, and 
 
 ---
 
-## 📌 Goals & Learning Outcomes
+## Goals & Learning Outcomes
 
 By completing this lab, you will learn to:
 
@@ -123,7 +123,7 @@ By completing this lab, you will learn to:
 
 ---
 
-## 📝 Notes
+## Notes
 
 - All configurations in this lab are for demonstration and educational purposes.
 - Be cautious when enabling global security policies in real environments.
@@ -132,8 +132,8 @@ By completing this lab, you will learn to:
 
 ## 📧 Contact / Credits
 
-Created by [Your Name]  
-GitHub: [your-github-link]  
-LinkedIn: [your-linkedin-link]
+Created by Rakeem 
+GitHub: https://github.com/Techkeemout
+LinkedIn: https://www.linkedin.com/in/rakeemdawson/
 
 ---
